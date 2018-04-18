@@ -7180,3 +7180,9 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
     margin-top: 1.2rem;
   }
 }
+.section-search input {
+  padding: 5px !important;
+  font-style: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
